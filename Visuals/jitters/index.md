@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: art
 title: "The Jitters"
 description: ""
 ---

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: art
 title: "Interstate 8"
 description: ""
 ---
