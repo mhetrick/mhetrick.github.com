@@ -3,7 +3,7 @@ layout: post
 title: "Welcome to the New Site"
 description: ""
 category: 
-tags: []
+tags: [site]
 ---
 {% include JB/setup %}
 
