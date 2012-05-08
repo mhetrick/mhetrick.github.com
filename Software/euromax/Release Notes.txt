@@ -1,0 +1,18 @@
+December 4th, 2010
+-Integer only mode in MIDI objects was misbehaving. Fixed.
+
+December 3rd, 2010
+-Analog Shift Register now outputs all incoming notes (Thanks, Stuff Linear)
+-New MIDI Modules: Keyboard, Dials, Faders, Buttons. "Single" expansion modules coming soon.
+
+December 2nd, 2010
+-Analog Shift Register now works as expected. Old mode changed to "cycle mode"
+
+
+November 24th, 2010, 5:10 PM PST
+-0.2 Beta Release
+-3 New FM modules: Simple FM Voice, Multi-Wave FM Voice, FM Voice Creator
+
+
+November 24th, 2010, 3:30 AM PST
+-First Release. 31 Modules included.
