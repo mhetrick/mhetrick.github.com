@@ -7,10 +7,12 @@ description: ""
 
 ##Major Projects
 
-## <a href="drawjong/"> DrawJong </a>
+## <a href="rose/"> RoSE </a>(2011-2012)
 
-## <a href="euromax/"> Euromax for Max/MSP </a>
+## <a href="drawjong/"> DrawJong </a>(2011-2012)
+
+## <a href="euromax/"> Euromax for Max/MSP </a>(2010)
 
 <br>
 ##Other Fun Things
-## <a href="trajectory/"> Trajectory Synth </a>
+## <a href="trajectory/"> Trajectory Synth </a>(2010)
