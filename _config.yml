@@ -6,6 +6,7 @@ exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 auto: true
 pygments: true
 paginate: 8
+safe: true
 
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
@@ -17,7 +18,7 @@ author :
   email : michael.s.hetrick@gmail.com
   github : mhetrick
   twitter : trickyflemming
-  feedburner : feedname
+  feedburner : mhetrick.portfolio
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
@@ -112,7 +113,7 @@ JB :
   # Set 'provider' to false to turn sharing off globally.
   #
   sharing :
-    provider : false
+    provider : facebook
     
   # Settings for all other include helpers can be defined by creating 
   # a hash with key named for the given helper. ex:

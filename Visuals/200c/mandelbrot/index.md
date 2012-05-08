@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: art
 title: "Mandelbrot and Julia Fractals"
 description: ""
 ---

@@ -2,6 +2,7 @@
 layout: post
 title: "Welcome to the New Site"
 description: ""
+sharing: true
 category: 
 tags: [site]
 ---
