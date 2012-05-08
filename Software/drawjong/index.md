@@ -20,7 +20,10 @@ Don't buy another boring synthesizer. Explore DrawJong today.</p>
 <p><a href="DrawJong.touchosc">TouchOSC iPad</a></p>
 <p><a href="DrawJong.touchosc">TouchOSC iPhone/iPod Touch</a></p>
 <p>------------------</p>
-<p>DrawJong is a continuation of <a href="../594CM/drawjong.html">my final project</a> for an OpenGL class. This version takes all of the features of the Mac version and adds a rich sonification engine based on Lance Putnam's <a href="http://mat.ucsb.edu/gamma/">Gamma</a> library.</p> 
+<p>DrawJong is a continuation of my final project for an OpenGL class. 
+This version takes all of the features of the Mac version and adds 
+a rich sonification engine based on Lance Putnam's 
+<a href="http://mat.ucsb.edu/gamma/">Gamma</a> library.</p> 
 <p>I am extremely proud of this project, and I hope that you enjoy it. </p>
 <p>You can download it here:</p>
 <p><a href="http://itunes.apple.com/us/app/drawjong/id435872616?mt=8">Itunes Link</a></p>
