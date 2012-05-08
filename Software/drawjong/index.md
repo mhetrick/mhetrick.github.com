@@ -1,12 +1,13 @@
 ---
-layout: page
+layout: art
 title: "DrawJong for iPad"
 description: ""
 ---
 {% include JB/setup %}
 
-<p><img src="IMG_0015 copy.jpg" width="338" height="441" align="right" />Experience the next generation of iOS synthesizers! <br />
-  <br />
+<object width="500" height="331"><param name="allowfullscreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="movie" value="http://vimeo.com/moogaloop.swf?clip_id=24208212&amp;force_embed=1&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=1&amp;color=00adef&amp;fullscreen=1&amp;autoplay=0&amp;loop=0" /><embed src="http://vimeo.com/moogaloop.swf?clip_id=24208212&amp;force_embed=1&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=1&amp;color=00adef&amp;fullscreen=1&amp;autoplay=0&amp;loop=0" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="500" height="331"></embed></object>
+
+
   DrawJong is a chaotic, two-oscillator wave terrain synthesizer based on the De Jong attractor. It is capable of producing wild glitches and weird waveforms, along with a steady stream of gorgeous visuals. <br />
   <br />
   Use it to feed your favorite sampler, to explore new forms of sound, or to create awesome wallpapers (DrawJong is capable of exporting photos to your photo library)! <br />
