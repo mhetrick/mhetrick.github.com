@@ -18,4 +18,4 @@ All programs were written in C++. Here are some of the results.
 ##Week 2: <a href="mandelbrot/">Mandelbrot Fractals</a>
 ##Week 3: <a href="newton/">Newton Fractals</a>
 ##Week 4: <a href="dla/">Diffusion Limited Aggregation</a>
-##Week 5: Heat Equation
+##Week 5: <a href="heat/">Heat Equation</a>
