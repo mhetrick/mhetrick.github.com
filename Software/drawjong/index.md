@@ -14,7 +14,6 @@ description: ""
   <br />
   DrawJong comes with a detailed instruction manual, so people of all skill levels can use it. All controls are laid out to provide the best experience possible. <br />
   <br />
-Don't buy another boring synthesizer. Explore DrawJong today.</p>
 <p>-----------------</p>
 <p>EXAMPLE OSC PATCHES:</p>
 <p><a href="drawjongosccontrol.maxpat">Max/MSP</a></p>
