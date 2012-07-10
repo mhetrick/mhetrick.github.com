@@ -27,3 +27,6 @@ a rich sonification engine based on Lance Putnam's
 <p>I am extremely proud of this project, and I hope that you enjoy it. </p>
 <p>You can download it here:</p>
 <p><a href="http://itunes.apple.com/us/app/drawjong/id435872616?mt=8">Itunes Link</a></p>
+
+<p>Download the manual here:</p>
+<p><a href="DrawJong Manual.pdf">DrawJong Manual</a></p>
