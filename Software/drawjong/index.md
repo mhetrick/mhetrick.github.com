@@ -29,4 +29,4 @@ a rich sonification engine based on Lance Putnam's
 <p><a href="http://itunes.apple.com/us/app/drawjong/id435872616?mt=8">Itunes Link</a></p>
 
 <p>Download the manual here:</p>
-<p><a href="DrawJong Manual.pdf">DrawJong Manual</a></p>
+<p><a href="DrawJong Manual.pdf">DrawJongManual</a></p>
