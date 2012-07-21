@@ -7,6 +7,8 @@ description: ""
 
 ##Major Projects
 
+## <a href="fractalblender/"> Fractal Blender </a>(2012)
+
 ## <a href="rose/"> RoSE </a>(2011-2012)
 
 ## <a href="drawjong/"> DrawJong </a>(2011-2012)
