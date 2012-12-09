@@ -10,7 +10,8 @@ description: ""
 </div>
 <p><a href="Michael Hetrick - Resume.pdf" target="_new">Download my Resume</a></p>
 <p>
-Michael Hetrick is a PhD student in the Media Arts and Technology department at UC, Santa Barbara. He has been a musician since the age of three. In high school, he discovered his passion for creating electronic music, and in college expanded his work into the field of video art. He is constantly working on new projects, whether they're music, videos, or applications for digital artists.
+
+Michael Hetrick is a PhD student in the Media Arts and Technology department at UC, Santa Barbara. A lifelong musician, he discovered his passion for electronic music while studying at Western Reserve Academy. At Vanderbilt University, he expanded his work into the field of video art while receiving a BA in Digital Media and Distribution. He went on to receive an MA in Electronic Music and Sound Design at UC, Santa Barbara in 2011 while doing research in chaotic synthesis under Curtis Roads. Today he is the co-owner and co-founder of Unfiltered Audio, a company dedicated to creating new software for all digital musicians.
 </p>
 
 <p>Links around the web:</p>
