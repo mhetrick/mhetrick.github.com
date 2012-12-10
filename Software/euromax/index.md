@@ -6,11 +6,13 @@ description: ""
 {% include JB/setup %}
 
 <p><img src="screenshot.jpg" width="900" height="628" alt="EuroMax" /></p>
-<p><a href="Euromax.zip">Download</a> now for Windows and Mac ( &lt; 1 MB), Updated December 3rd. See <a href="Release Notes.txt">Release Notes</a>.</p>
+<p><a href="Euromax.zip">Download</a> now for Windows and Mac ( &lt; 1 MB), Updated December 3rd, 2010. See <a href="Release Notes.txt">Release Notes</a>.</p>
+<p><a href="Euromax2Alpha.zip">Download Euromax 2.0 ALPHA</a> now for Windows and Mac ( &lt; 1 MB), Updated December 9th, 2012.</p>
 <p>by Michael Hetrick, UCSB MAT</p>
 <p>License: Please use these all you want for your own music projects. If you modify or port any of the modules (say, for Max 4 Live or PD) and wish to post them for download, please give credit to the source material and link to this site. You cannot sell any modified versions of these patches. If you do end up making an interesting port and want to be linked to (or hosted here), send me an e-mail.</p>
 <p>&nbsp;</p>
 <p>Recent Updates:</p>
+<p>-December 9th, 2012: First alpha of Euromax 2.0. Many new modules, including a granular toolkit. Documentation forthcoming.</p>
 <p>-December 3rd, 2010: Added MIDI modules. ASR missed values, now fixed (Thanks, Stuff Linear).</p>
 <p>-December 2nd, 2010: Analog Shift Register now behaves as expected.</p>
 <p>-November 24th, 2010: Beta 2 Uploaded. 3 new FM modules added (Simple FM Voice, Multi-Wave FM Voice, FM Voice Creator)</p>
