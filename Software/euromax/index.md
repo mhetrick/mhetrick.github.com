@@ -7,7 +7,7 @@ description: ""
 
 <p><img src="screenshot.jpg" width="900" height="628" alt="EuroMax" /></p>
 <p><a href="Euromax.zip">Download</a> now for Windows and Mac ( &lt; 1 MB), Updated December 3rd, 2010. See <a href="Release Notes.txt">Release Notes</a>.</p>
-<p><a href="Euromax2Alpha.zip">Download Euromax 2.0 ALPHA</a> now for Windows and Mac ( &lt; 1 MB), Updated December 9th, 2012.</p>
+<p><a href="EuroMax2Alpha.zip">Download Euromax 2.0 ALPHA</a> now for Windows and Mac ( &lt; 1 MB), Updated December 9th, 2012.</p>
 <p>New modules in Euromax 2.0 include: AD Envelope Matrix, Audio-to-Control, Bipolar Attenuators, Bipolar Mixers, Glisson Generator, Input Granulator, Logic Oscillator, Min/Max Audio + Control Processors, Per Grain Constant Q Filter, Quadrature Oscillator, Random Integer Generator, Sample + Hold, Simple ADSR, Simple Oscilloscope, Trainlet Generators, Two-Input Logic Gates, and a Wavefolder/clipper.</p>
 <p>by Michael Hetrick, UCSB MAT</p>
 <p>License: Please use these all you want for your own music projects. If you modify or port any of the modules (say, for Max 4 Live or PD) and wish to post them for download, please give credit to the source material and link to this site. You cannot sell any modified versions of these patches. If you do end up making an interesting port and want to be linked to (or hosted here), send me an e-mail.</p>
